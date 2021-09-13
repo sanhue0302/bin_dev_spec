@@ -1,0 +1,26 @@
+{
+  "name": "PPTableView",
+  "version": "1.2.1",
+  "summary": "Table View Component.",
+  "homepage": "http://www.penpower.net",
+  "license": {
+    "type": "MIT",
+    "text": "\t   \t\t\t         Copyright 2012\n\t\t\t\t         Permission is granted to...\n"
+  },
+  "authors": {
+    "Mike.Shih": "mike.shih@penpower.com.tw",
+    "Johnny.Wu": "johnny.wu@penpower.com.tw"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/PPTableView/1.2.1/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": false,
+  "source_files": "bin_PPTableView_1.2.1/Headers/*",
+  "public_header_files": "bin_PPTableView_1.2.1/Headers/*.h",
+  "vendored_libraries": "bin_PPTableView_1.2.1/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
