@@ -1,0 +1,23 @@
+{
+  "name": "RestKit",
+  "version": "0.27.3",
+  "summary": "RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X.",
+  "homepage": "https://github.com/RestKit/RestKit",
+  "social_media_url": "https://twitter.com/RestKit",
+  "authors": {
+    "Blake Watters": "blakewatters@gmail.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/RestKit/0.27.3/zip",
+    "type": "zip"
+  },
+  "license": "Apache License, Version 2.0",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bin_RestKit_0.27.3/Headers/*",
+  "public_header_files": "bin_RestKit_0.27.3/Headers/*.h",
+  "vendored_libraries": "bin_RestKit_0.27.3/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
