@@ -1,0 +1,25 @@
+{
+  "name": "SOCKit",
+  "version": "1.1",
+  "summary": "String <-> Object Coder for Objective-C.",
+  "homepage": "http://github.com/jverkoey/SOCKit",
+  "authors": {
+    "Jeff Verkoeyen": "jverkoey@gmail.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/SOCKit/1.1/zip",
+    "type": "zip"
+  },
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "file": "LICENSE"
+  },
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n With SOCKit and SOCPattern you can easily transform objects into strings and vice versa.",
+  "source_files": "bin_SOCKit_1.1/Headers/*",
+  "requires_arc": false,
+  "platforms": {
+    "ios": null
+  },
+  "public_header_files": "bin_SOCKit_1.1/Headers/*.h",
+  "vendored_libraries": "bin_SOCKit_1.1/*.a"
+}
