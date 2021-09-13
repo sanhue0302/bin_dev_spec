@@ -1,0 +1,41 @@
+{
+  "name": "PPRestClient",
+  "version": "1.10.3",
+  "summary": "PPRestClient, RestKit 封裝類別",
+  "homepage": "http://www.penpower.com.tw",
+  "license": "MIT",
+  "authors": {
+    "Howard.Lin": "howard.lin@penpower.com.tw"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/PPRestClient/1.10.3/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": false,
+  "source_files": "bin_PPRestClient_1.10.3/Headers/*",
+  "dependencies": {
+    "RestKit": [
+
+    ],
+    "Extension/Common": [
+
+    ],
+    "Define": [
+
+    ]
+  },
+  "osx": {
+    "dependencies": {
+      "Extension/macOS": [
+
+      ]
+    }
+  },
+  "prefix_header_contents": "#import <Availability.h>\n#define _AFNETWORKING_PIN_SSL_CERTIFICATES_\n\n#if __IPHONE_OS_VERSION_MIN_REQUIRED\n  #import <SystemConfiguration/SystemConfiguration.h>\n  #import <MobileCoreServices/MobileCoreServices.h>\n  #import <Security/Security.h>\n#else\n  #import <SystemConfiguration/SystemConfiguration.h>\n  #import <CoreServices/CoreServices.h>\n  #import <Security/Security.h>\n#endif",
+  "public_header_files": "bin_PPRestClient_1.10.3/Headers/*.h",
+  "vendored_libraries": "bin_PPRestClient_1.10.3/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
