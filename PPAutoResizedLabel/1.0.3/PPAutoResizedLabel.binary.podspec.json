@@ -1,0 +1,22 @@
+{
+  "name": "PPAutoResizedLabel",
+  "version": "1.0.3",
+  "summary": "依據文字內容自動縮放大小的label，可設定文字內縮程度。",
+  "homepage": "http://www.penpower.com.tw",
+  "license": "MIT",
+  "authors": {
+    "Eddie Hu": "eddie.hu@penpower.com.tw"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/PPAutoResizedLabel/1.0.3/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": false,
+  "source_files": "bin_PPAutoResizedLabel_1.0.3/Headers/*",
+  "public_header_files": "bin_PPAutoResizedLabel_1.0.3/Headers/*.h",
+  "vendored_libraries": "bin_PPAutoResizedLabel_1.0.3/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
