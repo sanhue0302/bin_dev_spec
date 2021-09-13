@@ -1,0 +1,26 @@
+{
+  "name": "PPTextView",
+  "version": "2.4.1",
+  "summary": "Base View Component.",
+  "homepage": "http://www.penpower.com.tw",
+  "authors": {
+    "Mike.Shih": "mike.shih@penpower.com.tw"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/PPTextView/2.4.1/zip",
+    "type": "zip"
+  },
+  "license": {
+    "type": "MIT",
+    "text": "\t\t\t\t   Copyright 2012\n\t\t\t\t   Permission is granted to...\n"
+  },
+  "requires_arc": false,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "bin_PPTextView_2.4.1/Headers/*",
+  "frameworks": "UIKit",
+  "public_header_files": "bin_PPTextView_2.4.1/Headers/*.h",
+  "vendored_libraries": "bin_PPTextView_2.4.1/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
