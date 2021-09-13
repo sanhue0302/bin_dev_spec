@@ -1,0 +1,23 @@
+{
+  "name": "Toast",
+  "version": "4.0.0",
+  "summary": "A UIView category that adds Android-style toast notifications to iOS.",
+  "homepage": "https://github.com/scalessec/Toast",
+  "license": "MIT",
+  "authors": {
+    "Charles Scalesse": "scalessec@gmail.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/Toast/4.0.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "bin_Toast_4.0.0/Headers/*",
+  "frameworks": "QuartzCore",
+  "requires_arc": true,
+  "public_header_files": "bin_Toast_4.0.0/Headers/*.h",
+  "vendored_libraries": "bin_Toast_4.0.0/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
